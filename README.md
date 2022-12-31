@@ -84,14 +84,7 @@ The website (*client & server*) is deployed on **Microsoft Azure**. The `Azure A
 - Support for virtual networks, and ability to run in an isolated and dedicated App Service Environment.
 - Rigorous security and compliance standards, including SOC and PCI, for seamless deployments in the cloud, in Azure Government, and on premises.
 
-> **Note**
-> There are three client & one server endpoints.
-- Custom Domain - <a href="https://www.medicwise.us">www.medicwise.us</a>
-- Azure App Service Domain - <a href="https://medicwise-portal.azurewebsites.net">medicwise-portal.azurewebsites.net</a>
-- Netlify Domain - <a href="https://medicwise-portal.netlify.app">medicwise-portal.netlify.app</a>
-- Server Domain - <a href="https://medicwise.azurewebsites.net">medicwise.azurewebsites.net</a>
-
-> Click on <a href="https://github.com/kartikmehta8/medicwise/blob/main/AZURE_DEPLOYMENT.md">**AZURE_DEPLOYMENT.md**</a> to see how to deploy the application on **Microsoft Azure Cloud**.
+> Click on <a href="https://github.com/mailforwork/medicwise-main/blob/main/AZURE_DEPLOYMENT.md">**AZURE_DEPLOYMENT.md**</a> to see how to deploy the application on **Microsoft Azure Cloud**.
 
 ## Future Prospects
 - Text-to-Gesture Encoding from Doctor to Client.
