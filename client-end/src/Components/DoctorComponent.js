@@ -29,7 +29,7 @@ export default function DoctorComponent() {
                                 />
                             </button>{" "}
                             <span className="name quick mt-3">
-                                Prerna Choudhary
+                               Juhie Chandra
                             </span>{" "}
                             <span className="idd quick px-2 py-1">
                                 V E R I F I E D
